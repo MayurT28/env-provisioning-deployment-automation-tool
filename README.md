@@ -56,3 +56,7 @@ Deployment completed successfully !!
 * CLI Automation
 * Properties-based Configuration
 * Docker Runtime Detection Logic
+
+## Demo Output
+
+![Execution Demo](docs/demo.png)
