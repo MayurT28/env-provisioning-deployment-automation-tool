@@ -1,0 +1,7 @@
+MAVEN CMDS
+
+mvn exec:java
+
+mvn exec:java "-Dexec.args=--env=DEV"
+
+mvn exec:java "-Dexec.args=--env=DEV --fail-db"

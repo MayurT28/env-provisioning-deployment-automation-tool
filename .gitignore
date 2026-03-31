@@ -1,0 +1,6 @@
+target/
+logs/
+*.class
+*.log
+.env
+.DS_Store

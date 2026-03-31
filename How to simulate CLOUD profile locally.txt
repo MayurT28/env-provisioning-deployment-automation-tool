@@ -1,0 +1,7 @@
+How to simulate CLOUD profile locally
+
+$env:CLOUD_ENV="true"
+
+expected - Execution profile detected: CLOUD
+
+DEACTIVATE - Remove-Item Env:\CLOUD_ENV

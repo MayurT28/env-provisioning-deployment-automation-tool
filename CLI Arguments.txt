@@ -1,0 +1,6 @@
+javac -d . src/com/envsetup/*.java
+
+java com.envsetup.Main --env=DEV
+
+java com.envsetup.Main --env=TEST --skip-db
+
